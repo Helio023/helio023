@@ -41,7 +41,9 @@ From that day on, I dedicated my entire time in web development.
   <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=helio023&repo=arvore-de-natal&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
    
   ##
-  
+  ![snake gif](https://github.com/helio023/helio023/blob/output/github-contribution-grid-snake.gif)
+ ##
+ 
   ### My last tutorials
 
 - [Como fazer animação de texto digitado com Javascript | Typeitjs](https://youtu.be/eyFX_AnGLZA)
@@ -56,7 +58,6 @@ From that day on, I dedicated my entire time in web development.
   <a href="https://www.youtube.com/channel/UCT7ziRh_Mhc1cFsN_-rdn4w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href = "mailto:heliomapupo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://linkedin.com/in/hélio-engrácia-mapupo-8875561b9" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
   
   ##
  
