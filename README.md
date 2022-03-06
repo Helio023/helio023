@@ -1,4 +1,5 @@
 ## Hi there, I'm Hélio Engrácia Mapupo 👋
+### Web developer | Html5, css3, sass, bootstrap, Javascript, ReactJs, NodeJs 💻🖥🖱
 
 ### A little about me!😎😎
 From the first moment I wrote my first “Hello world” program, I knew this was not only a skill to learn but a lifestyle to adopt. 
